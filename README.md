@@ -4,6 +4,7 @@ An NLP model that is developed to determine and distinguish between 6 different 
 * TF-TDF
 * Removal of stop-words and punctuations
 * lemmatization
+* Text-Blob
 * Gensim
 ## Models Used:
 * K-NN
